@@ -300,7 +300,7 @@ button:focus,
 @media (max-width : 768px) {
     .header {
         padding       : 0;
-        text-align    : center;
+        /* text-align    : center; */
         border-bottom : 1px solid #ededed;
         }
 
@@ -309,8 +309,9 @@ button:focus,
         }
 
     .header .content {
-        padding : 50px;
-        }
+        /* padding : 50px; */
+        padding : 20px 20px;
+    }
     }
 
 /* Header Sticky */
