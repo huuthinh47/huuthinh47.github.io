@@ -571,3 +571,18 @@ button:focus,
     text-align : center;
     top        : 65%;
     }
+
+
+/* gialang */
+.responsibility-detail strong {
+    color: #b4b4b5 !important;
+}
+.progress-item .progress {
+    height: 15px !important;
+}
+.progress-item .progress-percent {
+    display: none !important;
+}
+.progress-item .progress-bar {
+    background-color: #d5d5d5 !important;
+}
