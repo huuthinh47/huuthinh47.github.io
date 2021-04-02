@@ -390,6 +390,7 @@ button:focus,
     background-color : #FFC107;
     box-shadow       : none;
     text-align       : right;
+    border-radius: 50px;
     }
 
 .progress-item .progress-percent {
